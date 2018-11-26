@@ -1,0 +1,9 @@
+.contentSummary {
+    display: flex;
+    justify-content: center;
+}
+.summaryCount {
+    font-weight: 100;
+    margin-left: 10px;
+    margin-right: 10px;
+}
